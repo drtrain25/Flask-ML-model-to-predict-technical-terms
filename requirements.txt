@@ -1,0 +1,5 @@
+Flask
+nltk
+https://www.nltk.org/data.html
+pip install -U scikit-learn
+pandas

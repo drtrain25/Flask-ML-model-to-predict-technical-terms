@@ -1,0 +1,1633 @@
+WORD,LABEL
+Animations,1
+Papermaking,0
+Fitness,0
+Django testing,1
+Sculpting,0
+Composition,1
+Culinary,0
+Debugging,1
+Basketball,0
+Creativity,0
+Passport.js,1
+Celebration,0
+Error handling,1
+Racket,1
+Client,1
+Service catalog,1
+Templates,1
+Public key encryption,1
+Conservation,0
+ORM (Object-Relational Mapping),1
+Test-driven development (TDD),1
+Well-being,0
+Performance,0
+COBOL,1
+Dance,0
+Apex,1
+Top-down programming,1
+Build system,1
+Declaration file,1
+DIY,0
+Project management tool,1
+Tree traversal,1
+Acting,0
+Factory class,1
+Operators,1
+Class diagram,1
+Reggae,0
+Fitness,0
+Aromatherapy,0
+Models,1
+Golf,0
+Agile methodology,1
+Fiction,0
+Head,1
+Grid,1
+Expedition,0
+Hip-hop,0
+Switch-case statement,1
+"Bundlers (e.g., Webpack, Rollup)",1
+Aspect-oriented programming,1
+Variable declaration,1
+Redundancy,1
+Craftsmanship,0
+Relaxation,0
+System.out.println(),1
+Drama,0
+Deployment,1
+Physical fitness,0
+Prose,0
+Spring MVC,1
+YAML (YAML Ain't Markup Language),1
+Angular Material,1
+Image,0
+Fresh air,0
+Structured programming,1
+Spring Cloud,1
+Google Cloud Platform,1
+Volleyball,0
+Control structure,1
+Function declaration,1
+DevOps,1
+Type casting,1
+Creativity,0
+Binary search,1
+Break statement,1
+Country,0
+Party,0
+Front end,1
+REST API,1
+Harmony,0
+Memoization,1
+Verse,0
+File extension,1
+Authentication,1
+Singing,0
+Media queries,1
+Handmade,0
+Data race,1
+Pull request,1
+Motion pictures,0
+Playtime,0
+Bug,1
+Hiking,0
+Big O notation,1
+Getaway,0
+Seminar,0
+Compilation,1
+Key-value pair,1
+Union type,1
+Julia,1
+Design pattern,1
+HTML Document,1
+Server,1
+Heritage,0
+Comfort food,0
+C++,1
+User acceptance testing (UAT),1
+Inheritance,1
+Gig,0
+Caricature,0
+Inspiration,0
+Nested class,1
+Jazz,0
+Intrusion detection system (IDS),1
+Flora,0
+Leisure,0
+Diversity,0
+Pointer arithmetic,1
+JSON (JavaScript Object Notation),1
+Reptiles,0
+Excitement,0
+Objective-C++,1
+CMS (Content Management System),1
+Mythology,0
+Research,0
+Music,0
+Cross-stitch,0
+
+Leisure,0
+Postfix notation,1
+Rejuvenation,0
+Mixins,1
+Parse error,1
+Synchronization,1
+Woodworking,0
+Regular expression pattern,1
+Match,0
+AWS deployment,1
+RAID level,1
+Backtracking,1
+Companions,0
+Incident response,1
+Herbs,0
+Validation,1
+Failover,1
+PL/SQL,1
+Checkbox,1
+Animals,0
+Version control system,1
+Wildlife,0
+SaaS provider,1
+Cultivating,0
+Recreation,0
+Surfing,0
+Package manager,1
+Transformations,1
+Yoga,0
+Design,0
+Pruning,0
+Subroutine,1
+Cycling,0
+Source file,1
+Compound assignment,1
+Modularity,1
+Statue,0
+Method,1
+Style,0
+Wilderness,0
+Relaxation,0
+Culinary arts,0
+Aquarium,0
+Spark partitioning,1
+Socket,1
+Django deployment,1
+Protected,1
+Sightseeing,0
+Service discovery,1
+Node package manager (npm),1
+Ballet,0
+Implicit conversion,1
+Spring Boot,1
+Delight,0
+Query string,1
+CircleCI,1
+Flowers,0
+Environment,0
+Routes,1
+Artisan,0
+Painting,0
+Photo,0
+Vertical scaling,1
+Travel photography,0
+DOM (Document Object Model),1
+Microsoft Azure deployment,1
+Origami,0
+Subquery,1
+Horticulture,0
+View,1
+Event-driven architecture,1
+Error monitoring,1
+HTTP request,1
+Data definition,1
+Traditions,0
+Music,0
+Query,1
+Views,1
+Domesticated animals,0
+Erlang,1
+Pop,0
+JIT (Just-In-Time) compilation,1
+Parsing,1
+Handiwork,0
+Haskell,1
+Pass by reference,1
+Spark GraphX,1
+Choreography,0
+Procedural programming,1
+Training,0
+Conditional statements,1
+Pixel,1
+Components,1
+Scheme,1
+Token,1
+Pottery,0
+Dynamic typing,1
+RAID (Redundant Array of Independent Disks),1
+Duck typing,1
+Flask-SocketIO,1
+Lazy evaluation,1
+Subclassing,1
+Prototype,1
+Nature photography,0
+Custom,0
+Black and white,0
+SSH (Secure Shell),1
+Framework,1
+Greedy algorithm,1
+Data integrity,1
+Fantasy,0
+Stage,0
+Argument list,1
+Concurrency,1
+Thymeleaf,1
+Fortran,1
+Templates,1
+Cultural exchange,0
+Heap allocation,1
+Firewall rule,1
+Protocol buffer,1
+Sauteing,0
+Landscapes,0
+Limerick,0
+History,0
+Film,0
+Pilates,0
+Race condition,1
+Disaster recovery,1
+Stack overflow,1
+Crafts,0
+Event handling,1
+Sculpture,0
+Carving,0
+Holiday,0
+Octal,1
+Edge case,1
+Improvisation,0
+Identity,0
+Rhythm,0
+Server error,1
+Test automation,1
+Gig,0
+Jewelry making,0
+Coroutine,1
+Education,0
+Gourmet,0
+Deep copy,1
+Joy,0
+Continuous Integration (CI),1
+Cloud computing,1
+Generic type,1
+Sculpting,0
+Tag,1
+Workouts,0
+Athletics,0
+Node.js,1
+IDE (Integrated Development Environment),1
+Food,0
+Handmade,0
+Relational schema,1
+Scenic,0
+Software architecture,1
+JSON (JavaScript Object Notation),1
+Harvesting,0
+Thread,1
+Performance optimization,1
+Factory pattern,1
+SDK (Software Development Kit),1
+Landscaping,0
+Genre,0
+Concerts,0
+Spring Boot deployment,1
+Lua,1
+Mindfulness,0
+Animation,0
+Destructor,1
+Angular components,1
+Gardening,0
+Ecology,0
+MATLAB,1
+Relaxation,0
+Data types,1
+Exercise,0
+Reference type,1
+ODBC (Open Database Connectivity),1
+React,1
+Containerization,1
+Logic error,1
+Teaching,0
+Gardening,0
+Infrastructure as Code (IaC),1
+Painting,0
+Contentment,0
+Heritage,0
+Error handling,1
+Training,0
+Fitness,0
+Melody,0
+Park,0
+Companions,0
+Spring Boot CLI,1
+Landmarks,0
+Haskell,1
+Photography,0
+Relational database,1
+Option,1
+Client-server,1
+Performance optimization,1
+Lambda expression,1
+Throw statement,1
+Private key,1
+Method overriding,1
+PostgreSQL,1
+HTTP response,1
+Handiwork,0
+Regular expression,1
+Loose coupling,1
+Landscape,0
+Sketching,0
+Plug-in,1
+Auto-scaling,1
+Competitiveness,0
+Queue,1
+Spring Integration,1
+Framework,1
+Images,0
+Microservices architecture,1
+Callback,1
+Craftsmanship,0
+Sportsmanship,0
+Silver screen,0
+Sewing,0
+Carving,0
+Exercise,0
+Singleton pattern,1
+Spark deployment,1
+Variable,1
+Garbage collector,1
+Quilting,0
+Boiling,0
+Middleware,1
+Trend,0
+Haiku,0
+Hiking,0
+Agile methodology,1
+Horizontal scaling,1
+Taste,0
+RAM (Random Access Memory),1
+Loops,1
+Knowledge,0
+Garments,0
+White-box testing,1
+Images,0
+Color,1
+Books,0
+Machine code,1
+Database normalization,1
+Glassblowing,0
+Django CMS,1
+Denormalization,1
+Games,0
+Fortran,1
+Hiding implementation details,1
+Pass by value,1
+Dart,1
+Scripting language,1
+Tragedy,0
+Landscaping,0
+Knowledge,0
+Exit code,1
+GraphQL,1
+Inline function,1
+Flower,0
+Agile manifesto,1
+Public key,1
+Express.js,1
+Learning,0
+Film,0
+Exception propagation,1
+Choreography,0
+Comedy,0
+Zoology,0
+Interpreter error,1
+Infix notation,1
+Legends,0
+Burn-down chart,1
+Couture,0
+Literary,0
+Composite key,1
+GCP deployment,1
+Runway,0
+Fork,1
+Apparel,0
+Photography,0
+Destructor chaining,1
+Select,1
+Sustainable,0
+Autobiography,0
+Command line interface (CLI),1
+Promise,1
+Environment,0
+Show,0
+Dance,0
+SQLAlchemy,1
+Spectacle,0
+Hierarchy,1
+Blues,0
+CSS,1
+Method chaining,1
+Margin,1
+Truncate,1
+Trekking,0
+"ACID (Atomicity, Consistency, Isolation, Durability)",1
+Recipes,0
+Beading,0
+Linker,1
+Oil,0
+Wildlife,0
+Django Migrations,1
+Index,1
+Pets,0
+Pets,0
+Books,0
+Pair programming,1
+Node.js,1
+Symbolism,0
+Civilization,0
+Value,1
+Data modeling,1
+Span,1
+Mutable,1
+Model making,0
+Spark Driver,1
+Cuisine,0
+Partial class,1
+Karma,1
+Exercise,0
+Responsive design,1
+Adventure,0
+Gastronomy,0
+Photos,0
+Spring Data JPA,1
+Input,1
+Stack,1
+Angular,1
+Objects,1
+Staging environment,1
+Django signals,1
+Sketch,0
+Git,1
+Client,1
+Relational operator,1
+Animations,1
+Roaming,0
+Spring Actuator,1
+Biography,0
+CRLF (Carriage Return Line Feed),1
+Production environment,1
+Cats,0
+Martial arts,0
+Clay,0
+Getaway,0
+Jazz,0
+Object-oriented programming (OOP),1
+Novella,0
+Grilling,0
+Software framework,1
+Floating-point,1
+Dependency injection,1
+Mystery,0
+Constraint,1
+Image,1
+MongoDB,1
+Gastronomy,0
+Lambda function,1
+Lyric,0
+Integer division,1
+Web scraping,1
+Folklore,0
+Index,1
+Culinary,0
+DLL (Dynamic Link Library),1
+Spectacle,0
+Rhyme,0
+Poetry,0
+Events,0
+Papermaking,0
+Study,0
+Return value,1
+Immutable,1
+Watchers,1
+Play,0
+Wildlife,0
+Django Channels,1
+Baseball,0
+Prototype inheritance,1
+Declaration statement,1
+Closure,1
+Folklore,0
+ID,1
+Marshalling,1
+Django Admin,1
+Increment operator,1
+Spark Streaming,1
+Serializable,1
+UNIX,1
+While loop,1
+Happiness,0
+Stored function,1
+Pointer manipulation,1
+API (Application Programming Interface),1
+Memoir,0
+Movement,0
+Meditation,0
+Memory address,1
+Reflection error,1
+Athletics,0
+Class,1
+Type system,1
+Static analysis,1
+Organic,0
+Conditional statement,1
+Lyrics,0
+Variable,1
+XML parser,1
+Enumeration,1
+Waterfall methodology,1
+Teamwork,0
+Romance,0
+Lisp,1
+Objective-C,1
+Git,1
+Injection attack,1
+Spark caching,1
+Leisure,0
+Namespace pollution,1
+Log analysis,1
+Harmony,0
+Fashion,0
+SQL query,1
+Macro,1
+Exploring,0
+Planting,0
+SQL injection,1
+Cinema,0
+Call stack,1
+Code refactoring,1
+Handiwork,0
+Operator precedence,1
+Subquery,1
+Horticulture,0
+Type inference,1
+Keyword,1
+Assertion,1
+Road trip,0
+Baking,0
+Theater,0
+Planting,0
+Holiday,0
+Login credentials,1
+Preprocessor directive,1
+Virtual reality,1
+Spring AOP,1
+Band,0
+Handmade,0
+Environment,0
+Nature,0
+Replication,1
+FTP (File Transfer Protocol),1
+Angular Universal,1
+N-tier architecture,1
+Django caching,1
+Hip-hop dance,0
+Game,0
+Epic,0
+Nature,0
+Basketry,0
+Painting,0
+Polymorphism,1
+Vegetables,0
+Identifier,1
+MATLAB,1
+Exception,1
+DRY principle,1
+Ada,1
+MongoDB aggregation,1
+Performance monitoring,1
+Pictures,0
+DIY,0
+Spark cluster,1
+Property,1
+Journey,0
+Ajax (Asynchronous JavaScript and XML),1
+Nutrition,0
+Incremental testing,1
+Ancient history,0
+Sound,0
+Exploration,0
+Desserts,0
+Beauty,0
+Outdoor,0
+Tastes,0
+Camping,0
+Flask-Security,1
+Tradition,0
+Flowers,0
+Load balancing,1
+Design,0
+Song,0
+Tennis,0
+Style,0
+Spring Batch,1
+Exercise,0
+Computed properties,1
+Metadata,1
+Semaphore error,1
+Entity framework,1
+Soil,0
+Data warehouse,1
+Sewing,0
+Street photography,0
+Loop control variable,1
+JSON parsing,1
+Motion pictures,0
+"LIFO (Last-In, First-Out)",1
+SaaS (Software as a Service),1
+Entertainment,0
+Portraiture,0
+Tragedy,0
+Return statement,1
+Cryptography,1
+Back end,1
+Assembly language,1
+Verse,0
+Vuex,1
+Configuration management,1
+Tree,1
+Queue data structure,1
+Constructor chaining,1
+Authorization,1
+Code,1
+AJAX (Asynchronous JavaScript and XML),1
+JVM languages,1
+Unit testing,1
+Scrum master,1
+Wilderness,0
+Inline,1
+Jasmine,1
+Canine,0
+Backlog,1
+Function definition,1
+Generics,1
+Novels,0
+Flask-Mail,1
+Table,1
+Dishes,0
+Orchestra,0
+Immersion,0
+Schooling,0
+Jest,1
+Logical operator,1
+Portability,1
+JWT authentication,1
+Nonfiction,0
+Box Model,1
+Dynamic memory,1
+Microservices,1
+Clojure,1
+Health,0
+Collage,0
+Plugins,1
+Imagination,0
+Application domain,1
+Jokes,0
+Flexbox,1
+Breakpoint debugging,1
+UI (User Interface) design,1
+Transaction,1
+Database management system,1
+Adventure,0
+Looping statements,1
+Mosaic,0
+Printmaking,0
+Novels,0
+Canvas,0
+MIME type (Multipurpose Internet Mail Extensions),1
+CGI (Common Gateway Interface),1
+Spark MLlib,1
+Photos,0
+JVM (Java Virtual Machine),1
+Woodwork,0
+CGI script,1
+Network protocol,1
+Base class,1
+Plugin architecture,1
+Cookery,0
+Error handling,1
+Strong typing,1
+Gathering,0
+Dance,0
+Function,1
+Spark DataFrame,1
+PL/SQL,1
+Test-driven development (TDD),1
+Style,0
+Acting,0
+Glassblowing,0
+Caching,1
+IDE (Integrated Development Environment),1
+Node.js,1
+Still life,0
+Type checking,1
+Database,1
+GraphQL integration,1
+POSIX (Portable Operating System Interface),1
+Flavor,0
+Debugging,1
+Program counter,1
+Teamwork,0
+Performance optimization,1
+Craftsmanship,0
+Scrapbooking,0
+Virtual method,1
+Performance,0
+Spring Testing,1
+TypeScript,1
+Test suite,1
+SOAP API,1
+Constructor overloading,1
+Botanical,0
+Snapshot,0
+Kotlin,1
+Error handling,1
+Stack frame,1
+Animals,0
+SDK (Software Development Kit),1
+Runtime environment,1
+Pottery,0
+Async/Await,1
+Heritage,0
+Roasting,0
+Stream processing,1
+Service desk,1
+List comprehension,1
+Symposium,0
+Nonfiction,0
+Scope,1
+Outfit,0
+Angular services,1
+i18n (internationalization),1
+Spark Executor,1
+Firewall,1
+Pointer,1
+Coroutine scheduler,1
+Pleasure,0
+Past,0
+Default value,1
+Ecosystem,0
+Classical,0
+Package manager,1
+Spring Framework,1
+Curriculum,0
+Pastime,0
+Festivity,0
+Enjoyment,0
+Padding,1
+Thrill,0
+Parsing error,1
+Button,1
+Source control,1
+Modules,1
+Melody,0
+Primitive type,1
+Planting,0
+Performance optimization,1
+Test coverage,1
+Folk dance,0
+Package,1
+API endpoint,1
+Garbage collection,1
+Struct,1
+Health,0
+Band,0
+Design,0
+Private,1
+Fairy tales,0
+Dance,0
+Trigger,1
+Soccer,0
+Documentation,1
+Linking error,1
+IO (Input/Output),1
+Julia,1
+Discovery,0
+Lexer,1
+Shots,0
+Blooms,0
+Calligraphy,0
+Performances,0
+Ode,0
+React Native,1
+Prolog,1
+RESTful API,1
+Travel,0
+Mountains,0
+Syntax,1
+Body,1
+Festivals,0
+Storage allocation,1
+Comedy,0
+Customs,0
+COBOL,1
+Spring Boot Admin,1
+Partial application,1
+Modern dance,0
+Boolean,1
+REST (Representational State Transfer),1
+Documentation,1
+Functions,1
+SDK documentation,1
+Cuisine,0
+Scrum,1
+Singleton,1
+Embroidery,0
+Drawing,0
+Static method,1
+DDL (Data Definition Language),1
+Ballad,0
+Antiquity,0
+Pampering,0
+Amusement,0
+Portraits,0
+Poems,0
+Float,1
+Recreation,0
+Album,0
+Gardening,0
+Play,0
+Integration testing,1
+Wellness,0
+Algorithm,1
+Comedy,0
+Serialization,1
+Artisan,0
+Next.js,1
+DML (Data Manipulation Language),1
+Classic,0
+Selector,1
+Compilation error,1
+Security assessment,1
+Legacy code,1
+Self-care,0
+Fun,0
+HTML (Hypertext Markup Language),1
+SOAP (Simple Object Access Protocol),1
+Final,1
+Dependency management,1
+Clothing,0
+OAuth,1
+Sports,0
+Botany,0
+CSRF (Cross-Site Request Forgery),1
+Flavors,0
+Library,1
+Journey,0
+Integer,1
+Fitness,0
+Do-it-yourself,0
+Portrait,0
+Finite state machine,1
+Writing,0
+MongoDB Atlas,1
+Performance optimization,1
+Entertainment,0
+Transaction,1
+Amusement,0
+Object,1
+Setting,0
+Overflow error,1
+Scalability,1
+Verse,0
+Endurance,0
+Machine learning algorithm,1
+PHP,1
+Virtual machine,1
+Border,1
+URL encoding,1
+Exploring,0
+Pattern matching,1
+Salsa,0
+Regression testing,1
+Layered architecture,1
+Landscaping,0
+DRY (Don't Repeat Yourself),1
+Error handling,1
+Tailoring,0
+Reverse engineering,1
+Tango,0
+PHP (Hypertext Preprocessor),1
+Flicks,0
+Poetry,0
+Artwork,0
+Scrapbooking,0
+Artisanal,0
+HTTP (Hypertext Transfer Protocol),1
+Transitions,1
+Scalability,1
+Strength,0
+Landscape,0
+Pipelining,1
+Recursion,1
+Spark monitoring,1
+Exploration,0
+Operator,1
+Promises,1
+Priority queue,1
+TCP/IP (Transmission Control Protocol/Internet Protocol),1
+Yoga,0
+Third-party library,1
+Nature,0
+Abstraction,1
+Stand-up,0
+Bonding,0
+Template engine,1
+Theater,0
+Nutrition,0
+React Router,1
+Sprint,1
+Wellness,0
+Apache Spark,1
+Dependency,1
+Cuisine,0
+Redux Toolkit,1
+Retreat,0
+Angular forms,1
+Case sensitivity,1
+Join,1
+Encapsulation,1
+Uptime,1
+Merge,1
+Unicode escape sequence,1
+URL (Uniform Resource Locator),1
+GUI (Graphical User Interface),1
+Windows API,1
+Web server,1
+Unhandled exception,1
+Instrument,0
+Thread safety,1
+Uninitialized variable,1
+Deployment,1
+Buffer overflow,1
+F#,1
+Ceramics,0
+Literature,0
+Namespace,1
+Logging,1
+Feline,0
+Inline comment,1
+Photography,0
+SEO (Search Engine Optimization),1
+Health,0
+Gospel,0
+Tradition,0
+Typography,1
+String manipulation,1
+UPSERT,1
+Babel (JavaScript transpiler),1
+Sewing,0
+Microsoft Azure,1
+Wildlife,0
+Cooking,0
+Literal,1
+Element,1
+Rust,1
+Caring,0
+Django,1
+Voice,0
+Backpacking,0
+Perl,1
+Petals,0
+Interface,1
+Ethnic cuisine,0
+Delight,0
+GUI testing,1
+Wit,0
+Vue.js,1
+Blues,0
+Accessories,0
+Orchards,0
+Search algorithm,1
+Comedy,0
+Condition,1
+Greenery,0
+Benchmark,1
+Escape character,1
+Continuous improvement,1
+Acrobatics,0
+Hash function,1
+Null pointer,1
+Explore,0
+RMI (Remote Method Invocation),1
+Art history,0
+Groovy,1
+Modulus operator,1
+Country,0
+Hardcoding,1
+Cultivating,0
+Clothing,0
+Paper craft,0
+Transitions,1
+Namespace collision,1
+Comment,1
+Orchestra,0
+Drama,0
+Graph traversal,1
+Concatenation,1
+Jazz dance,0
+CSV (Comma-Separated Values),1
+Textiles,0
+Amusement,0
+Factory method,1
+Giggle,0
+Flask-Login,1
+Vulnerability,1
+Diet,0
+Form,1
+Serenity,0
+AWS EC2 deployment,1
+Graceful degradation,1
+Artistry,0
+Opera,0
+Error handling,1
+Paper craft,0
+Spark Structured Streaming,1
+Comedy,0
+Travel,0
+Malware,1
+TypeScript (typed superset of JavaScript),1
+Show,0
+Pip package manager,1
+Type conversion,1
+Display,1
+Security vulnerability,1
+Arrays,1
+Kotlin,1
+Patch,1
+Anchor,1
+Heading,1
+Code review,1
+Enum,1
+RAD framework,1
+Attribute,1
+Storytelling,0
+OLTP (Online Transaction Processing),1
+Festivals,0
+Dart,1
+Expression,1
+Wit,0
+Singleton instance,1
+Escape,0
+Composting,0
+SSR (Server-Side Rendering),1
+Plot,0
+Decoupage,0
+Class,1
+Embroidery,0
+Heroku deployment,1
+Learning,0
+Statement,1
+Inversion of control,1
+NPM (Node Package Manager),1
+ASCII (American Standard Code for Information Interchange),1
+Express middleware,1
+Agile development,1
+RAD (Rapid Application Development),1
+DIY,0
+Machine learning,1
+Lua,1
+Metaphor,0
+Appetite,0
+List,1
+Companion animal,0
+Bytecode,1
+Views,1
+Do-it-yourself,0
+Play,0
+Exception handling,1
+Float,1
+Movies,0
+Error handling,1
+DIY,0
+Preprocessor directive,1
+Improvisation,0
+Logging,1
+Calligraphy,0
+Science fiction,0
+Running,0
+Companions,0
+High-level language,1
+Healthiness,0
+Stories,0
+Weaving,0
+Data mining,1
+MIME type mismatch,1
+Continuous monitoring,1
+Jest testing,1
+Type coercion,1
+Optimization,1
+Caching strategies,1
+Change management,1
+Musical,0
+Recursion depth,1
+Blueprint,1
+Declaration,1
+Byte,1
+Garden,0
+Reggae,0
+Tragedy,0
+Humor,0
+Rap,0
+Vacation,0
+Couturier,0
+Rabbits,0
+Statue,0
+Concatenation operator,1
+Dogs,0
+Spa,0
+Deadlock,1
+Chorus,0
+Competition,0
+Climate,0
+Sightseeing,0
+Socket.IO integration,1
+LinkedList,1
+Gymnastics,0
+Shell scripting (PowerShell),1
+Stage,0
+Ruby,1
+Embroidery,0
+Continuous Deployment (CD),1
+Fiction,0
+Performance optimization,1
+Massage,0
+Past,0
+Wildlife watching,0
+Destructuring assignment,1
+"CSS Frameworks (e.g., Bootstrap)",1
+Retreat,0
+Zumba,0
+Dynamic programming,1
+Talent,0
+Quilting,0
+Runtime error,1
+Async data fetching,1
+Games,0
+Fish,0
+Gourmet,0
+ORM (Object-Relational Mapping),1
+Live events,0
+Penetration testing,1
+Furry friend,0
+Global scope,1
+Input validation,1
+Breakpoint,1
+Express.js,1
+Source code,1
+Sustainability,0
+Celebration,0
+HTML,1
+Code review,1
+Extension method,1
+Unit testing,1
+Tap dance,0
+Bottom-up programming,1
+Serverless architecture,1
+Beaches,0
+Dockerizing,1
+Baking,0
+DFA (Deterministic Finite Automaton),1
+Global variable,1
+Coroutine library,1
+Branch,1
+Cultural exchange,0
+Puns,0
+Redux,1
+Angular routing,1
+Watercolor,0
+Heap,1
+Diversion,0
+Subclass,1
+Pets,0
+MongoDB integration,1
+Scala,1
+IP address,1
+Literature,0
+Documentary,0
+Data binding,1
+Historical fiction,0
+Text editor,1
+CoffeeScript,1
+Folk,0
+Floating-point number,1
+Swimming,0
+Landscapes,0
+Go,1
+Drawing,0
+Fun,0
+Directives,1
+Cultural history,0
+Shell scripting (Bash),1
+Vue Router,1
+Operator precedence,1
+Mongoose,1
+Tour,0
+Competition,0
+Handiwork,0
+Django REST Framework,1
+Birds,0
+MVC architecture,1
+Laughter,0
+Flask-WTF,1
+Iterator,1
+Socket programming,1
+Dependency injection,1
+Primitive data type,1
+Full-text search,1
+PHP framework,1
+Crystal,1
+Schema,1
+Dishes,0
+Recharge,0
+Drama,0
+Regular expression engine,1
+Patch management,1
+REST API,1
+System error,1
+Delegation,1
+Implicit parameter,1
+Thriller,0
+Distributed database,1
+Ancestry,0
+Classical,0
+Collage,0
+Concert,0
+Baking,0
+Cooking,0
+Django Celery,1
+Play,0
+Unicode,1
+Data manipulation,1
+Organic,0
+Swift,1
+Reserved word,1
+Void,1
+Ingredients,0
+Cultivation,0
+Instrument,0
+OLAP (Online Analytical Processing),1
+DevSecOps,1
+System call,1
+Hamsters,0
+Lecture,0
+Memory leak,1
+Application server,1
+Sonnet,0
+Knitting,0
+Interpreter,1
+R,1
+Acceptance testing,1
+Bitwise operator,1
+Local variable,1
+Wellness,0
+Handicrafts,0
+Paragraph,1
+AWS Elastic Beanstalk,1
+Gastronomy,0
+Semicolon,1
+Override,1
+Mosaic,0
+Playfulness,0
+Forms,1
+Assembly language,1
+Scenic beauty,0
+JavaScript,1
+Control flow,1
+SSL/TLS (Secure Sockets Layer/Transport Layer Security),1
+High availability,1
+Picturesque,0
+Stage,0
+Performance,0
+Spring Boot Actuator,1
+Attribute,1
+Incident management,1
+Rock,0
+Pet,0
+Stress relief,0
+Main method,1
+Drama,0
+Recipes,0
+Closure,1
+Scoped styles,1
+Assignment,1
+API documentation,1
+Argument,1
+Performance testing,1
+Picture,0
+Binary,1
+Rollback,1
+Front-end development,1
+Healthiness,0
+Event-driven architecture,1
+SQL (Structured Query Language),1
+Primary key,1
+ISP (Internet Service Provider),1
+Honeypot,1
+Landscape,0
+Culinary,0
+Array,1
+Server,1
+Trip,0
+Spark RDD,1
+Tokenizer,1
+Ballet,0
+Multi-threading,1
+Exercise,0
+Flamenco,0
+Drama,0
+Prototype-based programming,1
+Static method,1
+Fashionista,0
+Normalization,1
+Java,1
+Spark job,1
+Internationalization (i18n),1
+Horticulture,0
+Destinations,0
+Black-box testing,1
+Switch statement,1
+Leisure,0
+Null,1
+Indexing,1
+Travel,0
+Validation,1
+Pointer dereference,1
+Flask,1
+Statement terminator,1
+Origami,0
+Trend,0
+Arrow functions,1
+Database management system (DBMS),1
+Background,1
+Authentication,1
+Persistent storage,1
+Flask-RESTful,1
+Ceramics,0
+Cross-platform,1
+Songwriting,0
+Exercise,0
+Polymorphic function,1
+OS (Operating System),1
+Bit,1
+TCP handshake,1
+Web application,1
+Access control,1
+Immutable object,1
+Service-oriented architecture (SOA),1
+Callback,1
+Adventure,0
+Rhythm,0
+Forms,1
+Python,1
+Theater,0
+Else statement,1
+Scope,1
+Tradition,0
+Role-based access control (RBAC),1
+Yoga,0
+Knitting,0
+Library,1
+National parks,0
+Stylesheet,1
+IDE shortcuts,1
+Information,0
+Doctype,1
+Rest,0
+Meditation,0
+Middleware,1
+Trend,0
+Steaming,0
+Solo,0
+Abstract,0
+Data structure,1
+Memoir,0
+Bliss,0
+Continuous delivery,1
+Aspect ratio,1
+RBAC (Role-based access control),1
+UDP (User Datagram Protocol),1
+Rhyme,0
+Herbs,0
+Void pointer,1
+Candid,0
+Single-file components,1
+Satire,0
+Debugger,1
+Stained glass,0
+Security,1
+TypeScript,1
+Ballet,0
+Mountaineering,0
+Anthropology,0
+Functional programming,1
+Meadow,0
+Sociology,0
+"CRUD (Create, Read, Update, Delete)",1
+Ancient,0
+Fabrics,0
+Roots,0
+Boolean expression,1
+Outdoors,0
+SVG (Scalable Vector Graphics),1
+Hash table,1
+Abstract,0
+Botany,0
+Forms,1
+Operand,1
+Perl,1
+Biography,0
+Overloading,1
+Drawing,0
+Version control,1
+XML (eXtensible Markup Language),1
+Positioning,1
+Mystery,0
+Drama,0
+Fauna,0
+Socket.IO,1
+Scrapbooking,0
+Folk,0
+Remote procedure call (RPC),1
+Persistent data,1
+Incident management process,1
+Continuous integration (CI),1
+Break,0
+Comedy,0
+Stir-frying,0
+Fashion,0
+Kanban,1
+Encoded URL,1
+React hooks,1
+Slots,1
+Div,1
+center,1
+ES6+ (ECMAScript 6 and above),1
+Heap memory,1
+Adventure,0
+Dependency management,1
+Well-being,0
+Tuple,1
+Delphi,1
+Cultural immersion,0
+Eats,0
+Package dependency,1
+Algorithmic complexity,1
+Service-level objective (SLO),1
+Amusement,0
+Adventure,0
+Wanderlust,0
+Template,1
+Parallel programming,1
+Spices,0
+Sculpting,0
+Lexical analysis,1
+Elixir,1
+Low-level language,1
+C#,1
+Finalizer,1
+Code documentation,1
+Sandbox environment,1
+Constant,1
+Code repository,1
+Dead code,1
+Wisdom,0
+Clothing,0
+Expression,0
+Hash function collision,1
+Autobiography,0
+Versioning,1
+Ecosystem,0
+Reflection,1
+Analog,1
+Civilization,0
+Sonnet,0
+Method chaining,1
+Scenery,0
+Semantic HTML,1
+Public,1
+Spring Security,1
+Try-catch block,1
+Enumeration type,1
+Leatherwork,0
+Planting,0
+Gathering,0
+Service-level agreement (SLA),1
+Backup and recovery,1
+Adventure,0
+Apparel,0
+Decorator,1
+Beading,0
+Couture,0
+Lisp,1
+MongoDB,1
+Characters,0
+Flexibility,0
+Spark SQL,1
+Folk music,0
+Error handling,1
+Animals,0
+Rituals,0
+Landscaping,0
+Caring,0
+Indie,0
+Encryption,1
+Aggregate function,1
+Superclass,1
+Vue CLI,1
+String concatenation,1
+Protocol,1
+Endpoint,1
+Festivity,0
+Password hashing,1
+Glamour,0
+Callback function,1
+Pop,0
+Model-view-controller (MVC),1
+Candle making,0
+Pseudo-classes,1
+Refactoring,1
+Workshop,0
+Monitoring,1
+Constructor,1
+Model binding,1
+Crocheting,0
+Vegetables,0
+Exploration,0
+Haiku,0
+Candle making,0
+Inheritance hierarchy,1
+Rock,0
+World history,0
+String,1
+Textarea,1
+Deadlock,1
+Drama,0
+Gourmet,0
+Musicality,0
+Wellness,0
+Foreign key,1
+Fruits,0
+Pictures,0
+Exponential notation,1
+API (Application Programming Interface),1
+Compiler,1
+IDE plugins,1
+Repository,1
+Table,1
+Pottery,0
+Fitness,0
+Log file,1
+Aesthetics,0
+Entertainment,0
+Sightseeing,0
+Multiculturalism,0
+Semaphore,1
+Tree,0
+Green thumb,0
+Radio Button,1
+Concert,0
+Scalability,1
+Visual Basic,1
+Mocking,1
+Closure property,1
+Vogue,0
+Runway,0
+Ceramics,0
+Heroku deployment,1
+Service-level indicator (SLI),1
+Stored procedure,1
+DevOps engineer,1
+Producer-consumer problem,1
+Recreation,0
+Lambda calculus,1
+Cinema,0
+DOM (Document Object Model),1
+Spark ML,1
+Assembly language,1
+Archeology,0
+CobolScript,1
+Flicks,0
+Development,1
+Production,1
+Error,1
+Recovery,1
